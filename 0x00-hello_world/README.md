@@ -1,1 +1,1 @@
-this is a project on C
+this is a project on 0-processor
