@@ -1,1 +1,1 @@
-This project is on pointers in the c programming language
+0x05-pointers_arrays_strings
