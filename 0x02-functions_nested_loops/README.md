@@ -1,1 +1,2 @@
-This project is on functions and nested loops i n the c programming language
+0x02-functions nested loops
+0x02-functions_nested_loops
